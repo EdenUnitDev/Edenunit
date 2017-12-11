@@ -23,7 +23,7 @@ We chose Cryptonote for our coin because our developers are very used to the Cry
 
 ## Why are the coins specifications like this?
 
-We chose the coinss emission speed to be 10 years for all coins to be mined, because this gives up development time to improve the first segement of the coin: The mining phase (as most coins will be on for a long while, we want to implement features in this time span that have to do with mining, for at least some features), when mining is done we will still create features for this coin, as this is an ongoing project. We chose block unlock window of 3 Blocks, because it is kinda annoying waiting the default 60 blocks or even 10 blocks to spend your coins.
+We chose the coinss emission speed to be 10 years for all coins to be mined, because this gives up development time to improve the first segement of the coin: The mining phase (as most coins will be on for a long while, we want to implement features in this time span that have to do with mining, for at least some features), when mining is done we will still create features for this coin, as this is an ongoing project. We chose block unlock window of 5 Blocks, because it is kinda annoying waiting the default 60 blocks or even 10 blocks to spend your coins.
 
 ## When will the EdenUnit project end?
 
