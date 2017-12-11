@@ -25,6 +25,24 @@ We chose Cryptonote for our coin because our developers are very used to the Cry
 
 We chose the coinss emission speed to be 10 years for all coins to be mined, because this gives up development time to improve the first segement of the coin: The mining phase (as most coins will be on for a long while, we want to implement features in this time span that have to do with mining, for at least some features), when mining is done we will still create features for this coin, as this is an ongoing project. We chose block unlock window of 3 Blocks, because it is kinda annoying waiting the default 60 blocks or even 10 blocks to spend your coins.
 
+## When will the EdenUnit project end?
+
+As of now, there is no clear ending point for EdenUnit. Though we know for a fact, until we have made a great postive impact on the Crypto scene, the EdenUnit project will not end.
+
+## Why the name EdenUnit?
+
+We chose the name EdenUnit, because in the story of the Garden Of Eden, there is a tree of knowledge, and our logo is supposed to represent that. And since our project goal is to create a postive impact on the crypto scene by creating new innovative features that are easily forkable for other developers to use, we thought that by spreading knowledge, naming our project EdenUnit and having our logo be the Tree Of Knowledge was very fitting.
+
+
+
+
+
+
+
+
+
+
+
 # EDENUNIT SIMPLEWALLET/DAEMON COMPILE GUIDE
 
 This guide is assuming you are running Ubuntu, replace the download commands to the one corresponding to your OS.
