@@ -1,4 +1,4 @@
-# edenunit-master
+# EdenUnit
 # EDENUNIT SIMPLEWALLET/DAEMON COMPILE GUIDE
 
 This guide is assuming you are running Ubuntu, replace the download commands to the one corresponding to your OS.
