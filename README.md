@@ -34,13 +34,7 @@ As of now, there is no clear ending point for EdenUnit. Though we know for a fac
 We chose the name EdenUnit, because in the story of the Garden Of Eden, there is a tree of knowledge, and our logo is supposed to represent that. And since our project goal is to create a postive impact on the crypto scene by creating new innovative features that are easily forkable for other developers to use, we thought that by spreading knowledge, naming our project EdenUnit and having our logo be the Tree Of Knowledge was very fitting.
 
 
-
-
-
-
-
-
-
+__________________________________________________________________________________________________________________________________
 
 
 # EDENUNIT SIMPLEWALLET/DAEMON COMPILE GUIDE
@@ -54,15 +48,17 @@ If your on windows just download the windows binarys, no need to compile :D
 
 ## Clone the simplewallet and daemon source
 
-> git clone https://github.com/EdenUnitDev/edenunit-master
+> git clone https://github.com/EdenUnitDev/Edenunit
 
 ## CD into directory
 
-> cd edenunit-master
+> cd Edenunit
 
 ## Compile the simplewallet/daemon
 
-> Just type in "make" while in edenunit-master
+> Just type in "make" while in Edenunit
+> Or, if you are on a system with a CPU with multiple cores, do this command to speed the compile process:
+> make -j (Number of threads on CPU)
 
 Note: The compile may take a while
 
