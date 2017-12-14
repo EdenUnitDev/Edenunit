@@ -57,7 +57,9 @@ If your on windows just download the windows binarys, no need to compile :D
 ## Compile the simplewallet/daemon
 
 > Just type in "make" while in Edenunit
-> Or, if you are on a system with a CPU with multiple cores, do this command to speed the compile process:
+
+Or, if you are on a system with a CPU with multiple cores, do this command to speed the compile process:
+
 > make -j (Number of threads on CPU)
 
 Note: The compile may take a while
